@@ -1,0 +1,2 @@
+include 'TSN_DEMO_06_Database'
+rootProject.name='DAS06_lab6'
